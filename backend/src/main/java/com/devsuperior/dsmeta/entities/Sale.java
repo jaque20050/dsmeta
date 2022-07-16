@@ -8,6 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -15,6 +16,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
 @Entity
 @Table(name = "tb_sales")
 public class Sale {
@@ -22,15 +24,15 @@ public class Sale {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-
-	private LocalDate date;
-
+	
 	private String sellerName;
-
+	
 	private Integer visited;
-
+	
 	private Integer deals;
-
+	
 	private Double amount;
+	
+	private LocalDate date;
 
 }
