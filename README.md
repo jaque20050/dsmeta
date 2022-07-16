@@ -1,4 +1,3 @@
-# dsmeta
 Semana Spring React (projeto full stack)
 Uma aplicação que exibe uma listagem de vendas, permitindo filtrá-las por data e enviar uma notificação por SMS com os dados de cada venda.
 
