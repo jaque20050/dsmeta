@@ -24,5 +24,6 @@ https://user-images.githubusercontent.com/55770645/179368861-4a3497a5-d4e7-493a-
 
 ## SMS
 
-![SMS](https://user-images.githubusercontent.com/55770645/179368871-72e75f67-f908-4190-83af-0d93de561f6b.jpeg)
+![SMS2](https://user-images.githubusercontent.com/55770645/179753179-1b0745c7-baf0-45df-a9ae-074ff62c269d.jpeg)
+
 
